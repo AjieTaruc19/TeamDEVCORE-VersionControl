@@ -1,1 +1,2 @@
 Team DEVCORE - First Draft
+Conclusion: Version control helps teams collaborate.
